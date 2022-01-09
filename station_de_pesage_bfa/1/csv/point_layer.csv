@@ -1,0 +1,13 @@
+X,Y,STATION DE,STATUT,DESIGNATIO,SENS,Latitude,Longitude,icon_url
+-1.75519444444444,12.2373888888889,Tanghin Dassouri,En service,RN 1,Ouagadougou- Bobo Dioulasso,"12°14'14.6""N","1°45'18.7""W",./0.png
+-1.12191666666667,11.0240277777778,Dakola,Hors service,RN 5,Ghana-Burkina,"11°01'26.5""N","1°07'18.9""W",
+-4.64541666666667,12.0385555555556,Faramana,Hors service,RN 9,Mali-Burkina,"12°02'18.8""N","4°38'43.5""W",
+-4.92830555555556,10.2653888888889,Niangoloko,En service,RN 7,RCI-Burkina,"10°15'55.4""N","4°55'41.9""W",./0.png
+-2.55619444444444,12.4061666666667,Bonyolo,En service,RN 21,Perkoa-Bobo,"12°24'22.2""N","2°33'22.3""W",./0.png
+-4.20297222222222,11.1598611111111,Bobo Dioulasso,En service,RN 1,Bobo-Dioulasso-Ouagadougou,"11°09'35.5""N","4°12'10.7""W",./0.png
+-2.76502777777778,11.0260277777778,Ouessa,Hors service,RD 122,Ghana-Burkina,"11°01'33.7""N","2°45'54.1""W",
+-4.85355555555556,10.6588888888889,Banfora PK 10,Hors service,RR 28,Banfora-Sindou,"10°39'32.0""N","4°51'12.8""W",
+0.8385,11.1576166666667,Nadiagou,Hors service,RN 18,Benin-Burkina,"11° 9'27.42""N","0°50'18.60""E",
+-4.23995277777778,13.0932277777778,Djibasso,Hors service,RN 14,Mali-Burkina,"13° 5'35.62""","4°14'23.83""W",
+-2.67212777777778,13.8112027777778,Thiou,Hors service,RN 2,Mali-Burkina,"13°48'40.33""N","2°40'19.66""w",
+0.006544444444444,11.1158527777778,PCJ Cinkansé,En service,CU9,Double sens,"11° 6'57.07""N","0° 0'23.56""E",./0.png
